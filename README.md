@@ -8,6 +8,6 @@ ASM AND C developer
 - **Simple Hello World x86** — print hello world in assembly
 
 ## SKILLS
-- x86 Assembly (NASM)
-- C
-- Bare Metal / Low Level
+- **x86 Assembly (NASM)**
+- **C**
+- **Bare Metal / Low Level**
