@@ -1,16 +1,13 @@
-## Hi there 👋
+# 042-bit
 
-<!--
-**042-bit/042-bit** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+ASM AND C developer
 
-Here are some ideas to get you started:
+## PROJECTS
+- **x86 Bare Metal Bootloader** — 16->32->64 bit mode
+- **BASIC 128 BITS INTERPRETATION** — random operations on 128 bits
+- **Simple Hello World x86** — print hello world in assembly
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## SKILLS
+- x86 Assembly (NASM)
+- C
+- Bare Metal / Low Level
