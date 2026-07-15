@@ -15,3 +15,10 @@ ASM AND C developer
 - 🌱 I'm currently learning ... assembler and c
 - 👯 I'm looking to collaborate on ... low level / linux
 - ⚡ Fun fact: ... I really enjoy doing this
+
+
+
+#Motto
+
+"Sed si intellegis, scis nos hodie gradum fecisse ad veram technologiam,
+ad reditum ad artes veteres et ad progressionem humanitatis." ~ itsAbi
