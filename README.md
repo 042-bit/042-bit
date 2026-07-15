@@ -18,7 +18,7 @@ ASM AND C developer
 
 
 
-#Motto
+##Motto
 
 "Sed si intellegis, scis nos hodie gradum fecisse ad veram technologiam,
 ad reditum ad artes veteres et ad progressionem humanitatis." ~ itsAbi
