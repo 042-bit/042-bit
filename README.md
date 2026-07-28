@@ -8,17 +8,8 @@ createing bios c programing low level experminets os dev graphic fasm <br><br>04
 # 💻 Tech Stack:
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![Asm](https://img.shields.io/badge/x86%20assembly-%23000000.svg?style=for-the-badge) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Fortran](https://img.shields.io/badge/Fortran-%23734F96.svg?style=for-the-badge&logo=fortran&logoColor=white)
 # 📊 GitHub Stats:
-![](https://github-readme-stats.shion.dev/api?username=042-bit&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://streak-stats.demolab.com/?user=042-bit&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=042-bit&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=042-bit&theme=date_night&no-frame=false&no-bg=true&margin-w=4)
-
----
-[![](https://komarev.com/ghpvc/?username=042-bit&icon=2&color=2)](https://visitcount.itsvg.in)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 
 ## Motto
